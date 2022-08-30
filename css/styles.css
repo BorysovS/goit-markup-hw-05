@@ -118,7 +118,10 @@ letter-spacing: 0.03em;
     text-decoration: none;
     cursor: pointer;
 }
-
+.current::after {
+    content: "";
+    
+}
 .site-nav.list {
     display: flex;
     column-gap: 50px;

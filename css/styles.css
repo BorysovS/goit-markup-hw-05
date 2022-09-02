@@ -133,10 +133,7 @@ letter-spacing: 0.03em;
     background-color: var(--primery-accent-color);
 }
 
-/* .current::after {
-    content: "";
-    
-} */
+
 .site-nav.list {
     display: flex;
     column-gap: 50px;
